@@ -1,8 +1,8 @@
-#Calculator
+# Calculator
 
 This challenge consists of creating a simple calculator using html, css and javascript.
 
-#Methods:
+# Methods:
 * Sum
 * Subtraction
 * Multiplication
